@@ -16,7 +16,7 @@ Tento projekt je moderní web builder postavený na Reactu a Tailwind CSS, kter�
 1. Naklonujte repozitář:
 
    ```bash
-   git clone https://github.com/<your-username>/modern-web-builder.git
+   git clone https://github.com/kolikkulda/modern-web-builder.git
    cd modern-web-builder
    ```
 
@@ -43,7 +43,7 @@ Tento projekt je moderní web builder postavený na Reactu a Tailwind CSS, kter�
 2. Upravte `package.json` a přidejte:
 
    ```json
-   "homepage": "https://<your-username>.github.io/modern-web-builder"
+   "homepage": "https://kolikkulda.github.io/modern-web-builder"
    ```
 
 3. Nasazení:
